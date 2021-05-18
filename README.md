@@ -7,5 +7,7 @@ This projeect was given as asn assignment by my professor. In this project, I ha
 # Time Series Analysis
 - checked for any trends, irregularity, seasonality on the dataset.
 - used ARIMA model to perform time series analysis (since the data is not seasonal).
+# LSTM
+The LSTM file is attched seperately as LSTM.ipynb
 
 The datset is attched.
